@@ -1,0 +1,46 @@
+@font-face {
+	font-family: Epilogue;
+	src: url('Epilogue.ttf') format('truetype');
+	font-weight: 100 900;
+}
+
+@font-face {
+	font-family: Epilogue;
+	src: url('Epilogue-Italic.ttf') format('truetype');
+	font-weight: 100 900;
+	font-style: italic;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Epilogue;
+	background-color: #566A6B;
+	color: #F4FBFB;
+}
+
+section, aside {
+	padding: 1.2rem;
+}
+
+p {
+	margin-top: 0.4rem;
+	margin-bottom: 0.4rem;
+}
+
+a {
+	color: #69C4C9;
+}
+
+button {
+	color: #222A2B;
+}
+
+#copyright {
+	font-weight: 200;
+	background-color: #222A2B;
+}
