@@ -2,8 +2,8 @@ const cacheId = '0.0.1'
 const cacheFiles = [
 	'/app.js',
 	'/app.webmanifest',
-	'/Epilogue-Italic.ttf',
-	'/Epilogue.ttf',
+	'/Epilogue-Italic.woff2',
+	'/Epilogue.woff2',
 	'/favicon.ico',
 	'/icon.svg',
 	'/index.html',

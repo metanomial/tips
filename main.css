@@ -1,12 +1,12 @@
 @font-face {
 	font-family: Epilogue;
-	src: url('Epilogue.ttf') format('truetype');
+	src: url('Epilogue.woff2') format('woff2');
 	font-weight: 100 900;
 }
 
 @font-face {
 	font-family: Epilogue;
-	src: url('Epilogue-Italic.ttf') format('truetype');
+	src: url('Epilogue-Italic.woff2') format('woff2');
 	font-weight: 100 900;
 	font-style: italic;
 }
